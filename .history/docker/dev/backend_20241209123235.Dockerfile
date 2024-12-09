@@ -1,4 +1,4 @@
-FROM docker.unsee.tech/node18/alpine
+FROM docker.unsee.tech/node:18
 
 WORKDIR /app
 
